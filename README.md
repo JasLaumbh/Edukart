@@ -1,2 +1,2 @@
 # Edukart
-Educational Repository. Full Stack Development
+Educational Repository. Front End Web Development
